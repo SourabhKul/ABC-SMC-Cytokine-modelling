@@ -1,0 +1,29 @@
+ABC-SMC Beta 0.9 epsilon
+
+Accepted : 10177/10000Acceptance rate for iteration 1: 3.7037037037037037
+Epsilon = 10
+Next Epsilon = 1.4856900215148925
+Total runs = 27
+Time till this stage: 70.63370060920715
+Percentile: 10
+[0.86506224 1.27585659 1.48569002 1.84913826 2.1922605 ]
+Mean of step size:  0.08653105
+Running iteration: 2
+Accepted : 10013/10000Acceptance rate for iteration 2: 0.4784688995215311
+Epsilon = 1.4856900215148925
+Next Epsilon = 0.9063959836959838
+Total runs = 209
+Time till this stage: 386.8842463493347
+Percentile: 10
+[0.60355023 0.78615199 0.90639598 1.10336685 1.27904272]
+Mean of step size:  0.3930746
+Running iteration: 3
+Accepted : 10000/10000Acceptance rate for iteration 3: 0.04967709885742673
+Epsilon = 0.9063959836959838
+Next Epsilon = 0.5899566411972046
+Total runs = 2013
+Time till this stage: 2782.6620240211487
+Percentile: 10
+[0.42183289 0.52753518 0.58995664 0.69406731 0.79055324]
+Mean of step size:  0.05418286
+Running iteration: 4

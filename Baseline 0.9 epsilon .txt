@@ -1,0 +1,63 @@
+Baseline 0.9 epsilon 
+
+Accepted : 10307/10000Acceptance rate for iteration 1: 4.3478260869565215
+Epsilon = 10
+Total runs = 23
+Time till this stage: 54.27698469161987
+Running iteration: 2
+Accepted : 10038/10000Acceptance rate for iteration 2: 4.761904761904762
+Epsilon = 5
+Total runs = 21
+Time till this stage: 80.11758875846863
+Running iteration: 3
+Accepted : 10243/10000Acceptance rate for iteration 3: 5.2631578947368425
+Epsilon = 3
+Total runs = 19
+Time till this stage: 104.92555141448975
+Running iteration: 4
+Accepted : 10427/10000Acceptance rate for iteration 4: 5.2631578947368425
+Epsilon = 2.5
+Total runs = 19
+Time till this stage: 127.82878088951111
+Running iteration: 5
+Accepted : 10295/10000Acceptance rate for iteration 5: 5.2631578947368425
+Epsilon = 2.25
+Total runs = 19
+Time till this stage: 150.89143347740173
+Running iteration: 6
+Accepted : 10026/10000Acceptance rate for iteration 6: 0.8849557522123894
+Epsilon = 2
+Total runs = 113
+Time till this stage: 280.7814507484436
+Running iteration: 7
+Accepted : 10023/10000Acceptance rate for iteration 7: 0.36900369003690037
+Epsilon = 1.75
+Total runs = 271
+Time till this stage: 579.4151310920715
+Running iteration: 8
+Accepted : 10009/10000Acceptance rate for iteration 8: 0.13262599469496023
+Epsilon = 1.5
+Total runs = 754
+Time till this stage: 1411.9836041927338
+Running iteration: 9
+Accepted : 10004/10000Acceptance rate for iteration 9: 0.0511770726714432
+Epsilon = 1.25
+Total runs = 1954
+Time till this stage: 3627.0363771915436
+Running iteration: 10
+Accepted : 10000/10000Acceptance rate for iteration 10: 0.030385900941962928
+Epsilon = 1.1
+Total runs = 3291
+Time till this stage: 7786.709955215454
+Running iteration: 11
+Accepted : 10000/10000Acceptance rate for iteration 11: 0.024838549428713365
+Epsilon = 1
+Total runs = 4026
+Time till this stage: 12112.641423463821
+Running iteration: 12
+Accepted : 10002/10000Acceptance rate for iteration 12: 0.016173378618793467
+Epsilon = 0.9
+Total runs = 6183
+Time till this stage: 19568.229573726654
+Running iteration: 13
+Accepted : 2405/10000
